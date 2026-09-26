@@ -1,0 +1,6 @@
+{
+  "name": "MunshiAI",
+  "description": "AI-powered voice & text bookkeeping assistant for Indian merchants, kirana stores, and MSMEs connected to FastAPI backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
